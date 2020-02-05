@@ -5,6 +5,8 @@ var orderImage ="";
 //process
 while(userOrder !== "house" && userOrder !== "hotel")
 {
+alert("Welcom To My Website");
+alert("I Hope You Feel Good!");
 userOrder = prompt("please enter house or hotel");
 }
 var numberOfImages;
